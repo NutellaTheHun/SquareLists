@@ -1,0 +1,6 @@
+1. Make sure input folder is empty
+2. Make sure the output folder is empty
+3.place csv file from square up that you need in the input folder. rename the file "input" NO CAPS!
+4.Double click the file called batchfile, command prompt will open, when its finished, it will say "pause"
+5. Go to output folder to collect your new list, it will still be a CSV
+6. Recommended to export the new file into google sheets to print.
