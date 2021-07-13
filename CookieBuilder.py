@@ -2,7 +2,7 @@ import pandas as pd
 
 def CookieBuilder(df):
 	for productId in df["Product Id"]:
-		if productId == 43 or productId == 44:
+		if productId == 43 or productId == 44 or productId == 82:
 			index = df.loc[df['Product Id'] == productId].index[0]
 			cookie = df.at[index,'Product Options']#not a cookie yet, still that garbage string in the value
 			quantity = df.at[index,'Product Quantity']
