@@ -10,8 +10,8 @@ def CreateFrontList(df):
 	df['Pickup Time'] = df['Pickup Time'].shift(-1)
 
 	#filter by tomorrow
-	#df["Pickup Date"] = pd.to_datetime(df["Pickup Date"], format='%m/%d/%Y')
-	#df = df.loc[df['Pickup Date'] == tomorrow]
+	df["Pickup Date"] = pd.to_datetime(df["Pickup Date"], format='%m/%d/%Y')
+	df = df.loc[df['Pickup Date'] == tomorrow]
 
 	#filter by specific day, not done yet
 	#df["Pickup Date"] = pd.to_datetime(df["Pickup Date"], format='%m/%d/%Y')
