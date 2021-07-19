@@ -1,7 +1,6 @@
 import pandas as pd
 
 def FormatProductOptions(df):
-
 	for item in df["Product Options"].values:
 		if "Add a handmade note card by local artist Sarah Dudek" in str(item):
 			index = df.loc[df['Product Options'] == item].index[0]
@@ -24,4 +23,5 @@ def FormatProductOptions(df):
 		elif "Regular" in str(item):
 			index = df.loc[df['Product Options'] == item].index[0]
 			df.loc[index, 'Product Options'] = ""
+	return df
 
