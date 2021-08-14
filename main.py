@@ -1,7 +1,6 @@
 import csv
 import pandas as pd
 import numpy as np
-from BackList import CreateBackList
 from CookieBuilder import CookieBuilder
 from FormatProductOptions import FormatProductOptions
 from Frontlist import CreateFrontList
