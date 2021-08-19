@@ -6,6 +6,7 @@ def CookieBuilder(df):
 			index = df.loc[df['Product Id'] == productId].index[0]
 			cookie = df.at[index,'Product Options']#not a cookie yet, still that garbage string in the value
 			quantity = df.at[index,'Product Quantity']
+			pickup = df.at[index, 'Pickup Date']
 			cookie = cookie.replace(' &amp;','')
 			cookie = cookie.replace(': ',',')
 			cookie = cookie.rsplit(',')
@@ -21,7 +22,7 @@ def CookieBuilder(df):
 						cookieDict[cookie[i]] = 1 * quantity
 			df = df.drop([index])
 			for key in cookieDict:
-				line = pd.DataFrame({'Product Name': str(key), 'Product Quantity': cookieDict[key]}, index=[index + .5])
+				line = pd.DataFrame({'Product Name': str(key), 'Product Quantity': cookieDict[key], 'Pickup Date': pickup}, index=[index + .5])
 				df = df.append(line, ignore_index=False)
 				df = df.sort_index().reset_index(drop=True)		
 	return df
