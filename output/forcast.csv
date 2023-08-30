@@ -1,0 +1,656 @@
+Order #,Status,Pickup Date,Full Name,Order Type,Size,Item,Quantity
+648274622.0,completed,2023-08-09,Mary Jo Poburko,Pickup,,,
+648274622.0,completed,2023-08-09,Mary Jo Poburko,Pickup,,Buttermilk Currant,2.0
+648274622.0,completed,2023-08-09,Mary Jo Poburko,Pickup,,Lemon,2.0
+648274622.0,completed,2023-08-09,Mary Jo Poburko,Pickup,,Triple Berry,2.0
+984947980.0,pending,2023-08-25,Crystal Williams,Pickup,,,2.0
+984947980.0,pending,2023-08-25,Crystal Williams,Pickup,"8""",Summer Peach Pie,1.0
+984947980.0,pending,2023-08-25,Crystal Williams,Pickup,"5""",Apple Crumb Pie,1.0
+984947980.0,pending,2023-08-25,Crystal Williams,Pickup,"8""",Peach Blackberry Pie,1.0
+2132245033.0,completed,2023-08-15,Sam Geheran,Pickup,,,1.0
+2132245033.0,completed,2023-08-15,Sam Geheran,Pickup,"8""",Key Lime Pie,1.0
+2132245033.0,completed,2023-08-15,Sam Geheran,Pickup,,Dark Chocolate & Apricot Cookie,1.0
+2132245033.0,completed,2023-08-15,Sam Geheran,Pickup,,Mocha Chocolate Chunk Cookie,1.0
+1874369066.0,completed,2023-08-20,Karla Lang,Pickup,,,1.0
+1874369066.0,completed,2023-08-20,Karla Lang,Pickup,"8""",Mississippi Mud Pie,1.0
+52316492.0,completed,2023-08-08,Jared Fujii,Pickup,,,1.0
+52316492.0,completed,2023-08-08,Jared Fujii,Pickup,,Bacon Cheddar Scallion Biscuit,6.0
+52316492.0,completed,2023-08-08,Jared Fujii,Pickup,,Lemon,4.0
+52316492.0,completed,2023-08-08,Jared Fujii,Pickup,,Buttermilk Currant,4.0
+52316492.0,completed,2023-08-08,Jared Fujii,Pickup,,Triple Berry,4.0
+52316492.0,completed,2023-08-08,Jared Fujii,Pickup,,Chocolate Chip Cookie,3.0
+52316492.0,completed,2023-08-08,Jared Fujii,Pickup,,Mocha Chocolate Chunk Cookie,3.0
+52316492.0,completed,2023-08-08,Jared Fujii,Pickup,,Dark Chocolate Apricot,3.0
+52316492.0,completed,2023-08-08,Jared Fujii,Pickup,,Peanut Butter Cookie,3.0
+52316492.0,completed,2023-08-08,Jared Fujii,Pickup,,Snickerdoodle Cookie,3.0
+52316492.0,completed,2023-08-08,Jared Fujii,Pickup,,Ginger Molasses Cookie,3.0
+52316492.0,completed,2023-08-08,Jared Fujii,Pickup,,Fresh Blueberry,3.0
+52316492.0,completed,2023-08-08,Jared Fujii,Pickup,,Corn w Rasp Jam,3.0
+746245525.0,completed,2023-08-10,Jared Fujii,Pickup,,,3.0
+746245525.0,completed,2023-08-10,Jared Fujii,Pickup,,Bacon Cheddar Scallion Biscuit,6.0
+746245525.0,completed,2023-08-10,Jared Fujii,Pickup,,Lemon,4.0
+746245525.0,completed,2023-08-10,Jared Fujii,Pickup,,Buttermilk Currant,4.0
+746245525.0,completed,2023-08-10,Jared Fujii,Pickup,,Triple Berry,4.0
+746245525.0,completed,2023-08-10,Jared Fujii,Pickup,,Chocolate Chip Cookie,3.0
+746245525.0,completed,2023-08-10,Jared Fujii,Pickup,,Mocha Chocolate Chunk Cookie,3.0
+746245525.0,completed,2023-08-10,Jared Fujii,Pickup,,Dark Chocolate Apricot,3.0
+746245525.0,completed,2023-08-10,Jared Fujii,Pickup,,Peanut Butter Cookie,3.0
+746245525.0,completed,2023-08-10,Jared Fujii,Pickup,,Snickerdoodle Cookie,3.0
+746245525.0,completed,2023-08-10,Jared Fujii,Pickup,,Ginger Molasses Cookie,3.0
+746245525.0,completed,2023-08-10,Jared Fujii,Pickup,,Fresh Blueberry,3.0
+746245525.0,completed,2023-08-10,Jared Fujii,Pickup,,Corn w Rasp Jam,3.0
+330971091.0,completed,2023-08-09,Nora Huvelle,Pickup,,,3.0
+330971091.0,completed,2023-08-09,Nora Huvelle,Pickup,"8""",Peach Blackberry Pie,1.0
+330971091.0,completed,2023-08-09,Nora Huvelle,Pickup,"8""",Summer Peach Pie,1.0
+330971091.0,completed,2023-08-09,Nora Huvelle,Pickup,,Take 'n Bake Mixed Berry Pie,1.0
+330971091.0,completed,2023-08-09,Nora Huvelle,Pickup,,Take 'n Thaw Chocolate Bourbon Pecan Pie,1.0
+1215444603.0,completed,2023-08-17,Daniela Cantu,Pickup,,,1.0
+1215444603.0,completed,2023-08-17,Daniela Cantu,Pickup,"8""",Classic Apple Pie,1.0
+543495142.0,completed,2023-08-08,Madison Russell,Delivery,,,1.0
+543495142.0,completed,2023-08-08,Madison Russell,Delivery,"8""",Peach Blackberry Pie,1.0
+543495142.0,completed,2023-08-08,Madison Russell,Delivery,"8""",Summer Peach Pie,1.0
+1657338698.0,completed,2023-08-11,Christina Mayerhofer,Pickup,,,1.0
+1657338698.0,completed,2023-08-11,Christina Mayerhofer,Pickup,"8""",Mango Lassi Pie,1.0
+1657338698.0,completed,2023-08-11,Christina Mayerhofer,Pickup,"8""",Mixed Berry Pie,1.0
+373282011.0,completed,2023-08-12,Ana Thomas,Delivery,,,1.0
+373282011.0,completed,2023-08-12,Ana Thomas,Delivery,"10""",Peach Blackberry Pie,1.0
+373282011.0,completed,2023-08-12,Ana Thomas,Delivery,"10""",Key Lime Pie,1.0
+217922218.0,completed,2023-08-09,Jason Fox,Pickup,,,1.0
+217922218.0,completed,2023-08-09,Jason Fox,Pickup,"10""","Bacon, Leek & Gruyere Pie",1.0
+217922218.0,completed,2023-08-09,Jason Fox,Pickup,"10""",Summer Peach Pie,1.0
+1479430749.0,completed,2023-08-12,Judith Lubershane,Pickup,,,1.0
+1479430749.0,completed,2023-08-12,Judith Lubershane,Pickup,"10""",Summer Peach Pie,1.0
+1479430749.0,completed,2023-08-12,Judith Lubershane,Pickup,"10""",Blueberry Pie,1.0
+295258692.0,completed,2023-08-09,Daniel Cruz,Pickup,,,1.0
+295258692.0,completed,2023-08-09,Daniel Cruz,Pickup,"5""",Mango Lassi Pie,1.0
+295258692.0,completed,2023-08-09,Daniel Cruz,Pickup,"5""",Key Lime Pie,1.0
+831936580.0,completed,2023-08-12,Krishnan Subramanian,Pickup,,,1.0
+831936580.0,completed,2023-08-12,Krishnan Subramanian,Pickup,"10""",Summer Peach Pie,1.0
+857924110.0,completed,2023-08-09,Chris and Ali Magoon,Delivery,,,1.0
+857924110.0,completed,2023-08-09,Chris and Ali Magoon,Delivery,"8""",Summer Peach Pie,1.0
+857924110.0,completed,2023-08-09,Chris and Ali Magoon,Delivery,"5""","Bacon, Leek & Gruyere Pie",1.0
+857924110.0,completed,2023-08-09,Chris and Ali Magoon,Delivery,"10""","Fresh Mozzarella, Tomato & Basil Pie",1.0
+1533159627.0,completed,2023-08-12,Jaime Hart,Pickup,,,1.0
+1533159627.0,completed,2023-08-12,Jaime Hart,Pickup,"8""",Mississippi Mud Pie,1.0
+1533159627.0,completed,2023-08-12,Jaime Hart,Pickup,"8""",Lemon Chess Pie w Fresh Blueberries,1.0
+1533159627.0,completed,2023-08-12,Jaime Hart,Pickup,"8""",Mixed Berry Pie,1.0
+1509689922.0,completed,2023-08-13,John W Holcombe,Pickup,,,1.0
+1509689922.0,completed,2023-08-13,John W Holcombe,Pickup,"10""",Mango Lassi Pie,1.0
+1509689922.0,completed,2023-08-13,John W Holcombe,Pickup,"10""",Chocolate Bourbon Pecan Pie,1.0
+1509689922.0,completed,2023-08-13,John W Holcombe,Pickup,"8""",Cherry Crumb Pie,1.0
+277425473.0,completed,2023-08-11,Valerie Polletta,Delivery,,,1.0
+277425473.0,completed,2023-08-11,Valerie Polletta,Delivery,"8""",Peach Blackberry Pie,1.0
+2039011604.0,completed,2023-08-09,Jennifer Allard,Pickup,,,1.0
+2039011604.0,completed,2023-08-09,Jennifer Allard,Pickup,,Buttermilk Currant Scone,1.0
+2039011604.0,completed,2023-08-09,Jennifer Allard,Pickup,,Triple Berry Scone,1.0
+2039011604.0,completed,2023-08-09,Jennifer Allard,Pickup,,Earl Grey Iced Tea,1.0
+1943962025.0,completed,2023-08-12,Mark Khoury,Pickup,,,1.0
+1943962025.0,completed,2023-08-12,Mark Khoury,Pickup,"5""",Summer Peach Pie,1.0
+59099143.0,completed,2023-08-12,Sarah Jane Huber,Pickup,,,1.0
+59099143.0,completed,2023-08-12,Sarah Jane Huber,Pickup,"8""",Summer Peach Pie,1.0
+380013948.0,completed,2023-08-10,Ellen Curren,Pickup,,,1.0
+380013948.0,completed,2023-08-10,Ellen Curren,Pickup,"10""",Peach Blackberry Pie,1.0
+380013948.0,completed,2023-08-10,Ellen Curren,Pickup,"10""",Cherry Crumb Pie,1.0
+380013948.0,completed,2023-08-10,Ellen Curren,Pickup,"5""",Blueberry Pie,1.0
+2024544209.0,completed,2023-08-11,lauren ritter,Pickup,,,1.0
+2024544209.0,completed,2023-08-11,lauren ritter,Pickup,"8""",Peach Blackberry Pie,1.0
+2024544209.0,completed,2023-08-11,lauren ritter,Pickup,"8""",Mississippi Mud Pie,1.0
+1687184209.0,completed,2023-08-11,Dennis Warner,Pickup,,,1.0
+1687184209.0,completed,2023-08-11,Dennis Warner,Pickup,"8""",Vegan Apple Pie,1.0
+1444112937.0,completed,2023-08-10,Peter Bergmann,Pickup,,,1.0
+1444112937.0,completed,2023-08-10,Peter Bergmann,Pickup,"5""",Mango Lassi Pie,1.0
+1444112937.0,completed,2023-08-10,Peter Bergmann,Pickup,"5""","Bacon, Leek & Gruyere Pie",1.0
+306970108.0,completed,2023-08-11,Meredith Porter,Pickup,,,1.0
+306970108.0,completed,2023-08-11,Meredith Porter,Pickup,"5""",Summer Peach Pie,1.0
+306970108.0,completed,2023-08-11,Meredith Porter,Pickup,,Triple Berry Scone,1.0
+1131441654.0,completed,2023-08-12,Geeth Kavya Minama Reddy,Pickup,,,1.0
+1131441654.0,completed,2023-08-12,Geeth Kavya Minama Reddy,Pickup,"10""",Mango Lassi Pie,1.0
+1131441654.0,completed,2023-08-12,Geeth Kavya Minama Reddy,Pickup,"5""",Peach Blackberry Pie,1.0
+697502186.0,completed,2023-08-18,Joel A Wool,Delivery,,,1.0
+697502186.0,completed,2023-08-18,Joel A Wool,Delivery,"10""",Mango Lassi Pie,1.0
+697502186.0,completed,2023-08-18,Joel A Wool,Delivery,"10""",Chocolate Bourbon Pecan Pie,1.0
+697502186.0,completed,2023-08-18,Joel A Wool,Delivery,"10""",Peach Blackberry Pie,1.0
+697502186.0,completed,2023-08-18,Joel A Wool,Delivery,"10""",Vegan Mixed Berry Pie,1.0
+697502186.0,completed,2023-08-18,Joel A Wool,Delivery,"10""",Mississippi Mud Pie,1.0
+697502186.0,completed,2023-08-18,Joel A Wool,Delivery,"10""",Brown Butter Pecan Pie,1.0
+161919084.0,completed,2023-08-11,YoungJae Kim,Pickup,,,1.0
+161919084.0,completed,2023-08-11,YoungJae Kim,Pickup,"8""",Key Lime Pie,1.0
+1896239762.0,completed,2023-08-13,Amy Lapidow,Pickup,,,1.0
+1896239762.0,completed,2023-08-13,Amy Lapidow,Pickup,"10""",Lemon Chess Pie w Fresh Blueberries,1.0
+1863409139.0,completed,2023-08-10,Carol Malthaner,Pickup,,,1.0
+1863409139.0,completed,2023-08-10,Carol Malthaner,Pickup,"10""","Bacon, Leek & Gruyere Pie",1.0
+1863409139.0,completed,2023-08-10,Carol Malthaner,Pickup,"10""","Fresh Mozzarella, Tomato & Basil Pie",1.0
+1991860986.0,completed,2023-08-11,Andrew Lewandowski,Pickup,,,1.0
+1991860986.0,completed,2023-08-11,Andrew Lewandowski,Pickup,"8""",Mango Lassi Pie,1.0
+357688987.0,completed,2023-08-12,Vanessa Mulvey,Pickup,,,1.0
+357688987.0,completed,2023-08-12,Vanessa Mulvey,Pickup,"10""",Key Lime Pie,2.0
+162084781.0,completed,2023-08-11,Katherine McMurray,Pickup,,,2.0
+162084781.0,completed,2023-08-11,Katherine McMurray,Pickup,"5""",Mango Lassi Pie,1.0
+162084781.0,completed,2023-08-11,Katherine McMurray,Pickup,"10""",Peach Blackberry Pie,1.0
+411547058.0,completed,2023-08-11,Chloe Poon,Delivery,,,1.0
+411547058.0,completed,2023-08-11,Chloe Poon,Delivery,"10""",Mango Lassi Pie,1.0
+806874378.0,completed,2023-08-11,Frederick Cote-Verville,Pickup,,,1.0
+806874378.0,completed,2023-08-11,Frederick Cote-Verville,Pickup,"5""",Lemon Chess Pie w Fresh Blueberries,1.0
+806874378.0,completed,2023-08-11,Frederick Cote-Verville,Pickup,"5""",Peach Blackberry Pie,1.0
+1538633411.0,completed,2023-08-11,MARIO MITRANO,Pickup,,,1.0
+1538633411.0,completed,2023-08-11,MARIO MITRANO,Pickup,"8""",Peach Blackberry Pie,1.0
+1538633411.0,completed,2023-08-11,MARIO MITRANO,Pickup,"8""",Chocolate Bourbon Pecan Pie,1.0
+892957599.0,completed,2023-08-11,Colin Meade,Pickup,,,1.0
+892957599.0,completed,2023-08-11,Colin Meade,Pickup,"8""",Summer Peach Pie,1.0
+892957599.0,completed,2023-08-11,Colin Meade,Pickup,"8""",Blueberry Pie,1.0
+1069223538.0,completed,2023-08-13,Timothy Cormier,Pickup,,,1.0
+1069223538.0,completed,2023-08-13,Timothy Cormier,Pickup,"10""",Mango Lassi Pie,1.0
+1069223538.0,completed,2023-08-13,Timothy Cormier,Pickup,"10""",Peach Blackberry Pie,1.0
+1069223538.0,completed,2023-08-13,Timothy Cormier,Pickup,"5""",Brown Butter Pecan Pie,1.0
+1721356729.0,completed,2023-08-11,Mafalda Gueta,Pickup,,,1.0
+1721356729.0,completed,2023-08-11,Mafalda Gueta,Pickup,"8""",Lemon Chess Pie w Fresh Blueberries,1.0
+1721356729.0,completed,2023-08-11,Mafalda Gueta,Pickup,"8""",Chocolate Bourbon Pecan Pie,1.0
+1721356729.0,completed,2023-08-11,Mafalda Gueta,Pickup,"8""",Classic Apple Pie,1.0
+640954517.0,completed,2023-08-12,Karen Zhang,Pickup,,,1.0
+640954517.0,completed,2023-08-12,Karen Zhang,Pickup,"8""",Lemon Chess Pie w Fresh Blueberries,1.0
+588638145.0,completed,2023-08-13,Nicholas Deutsch,Pickup,,,1.0
+588638145.0,completed,2023-08-13,Nicholas Deutsch,Pickup,"10""",Summer Peach Pie,1.0
+1125260771.0,completed,2023-08-12,Deborah Morse,Pickup,,,1.0
+1125260771.0,completed,2023-08-12,Deborah Morse,Pickup,"8""",Key Lime Pie,1.0
+1064656201.0,completed,2023-08-16,Stephanie Laing,Pickup,,,1.0
+1064656201.0,completed,2023-08-16,Stephanie Laing,Pickup,"8""",Peach Blackberry Pie,1.0
+1064656201.0,completed,2023-08-16,Stephanie Laing,Pickup,"8""",Key Lime Pie,1.0
+1064656201.0,completed,2023-08-16,Stephanie Laing,Pickup,,Dark Chocolate & Apricot Cookie,1.0
+1064656201.0,completed,2023-08-16,Stephanie Laing,Pickup,,Chocolate Chip Cookie,1.0
+1064656201.0,completed,2023-08-16,Stephanie Laing,Pickup,,Snickerdoodle Cookie,1.0
+569126023.0,completed,2023-08-13,Cara McGrath,Pickup,,,1.0
+569126023.0,completed,2023-08-13,Cara McGrath,Pickup,"10""",Key Lime Pie,1.0
+1598270591.0,completed,2023-08-12,Chrystyan Danner Oliveira,Pickup,,,1.0
+1598270591.0,completed,2023-08-12,Chrystyan Danner Oliveira,Pickup,"8""",Classic Apple Pie,1.0
+1583803081.0,completed,2023-08-12,Julie Mehegan,Pickup,,,1.0
+1583803081.0,completed,2023-08-12,Julie Mehegan,Pickup,"8""",Key Lime Pie,1.0
+1583803081.0,completed,2023-08-12,Julie Mehegan,Pickup,"5""",Brown Butter Pecan Pie,1.0
+1583803081.0,completed,2023-08-12,Julie Mehegan,Pickup,,Ginger Molasses Cookie,2.0
+1583803081.0,completed,2023-08-12,Julie Mehegan,Pickup,,Dark Chocolate Apricot,1.0
+1583803081.0,completed,2023-08-12,Julie Mehegan,Pickup,,Chocolate Chip Cookie,1.0
+1583803081.0,completed,2023-08-12,Julie Mehegan,Pickup,,Peanut Butter Cookie,1.0
+1583803081.0,completed,2023-08-12,Julie Mehegan,Pickup,,Snickerdoodle Cookie,1.0
+639644024.0,completed,2023-08-12,Marcy Castrucci,Pickup,,,1.0
+639644024.0,completed,2023-08-12,Marcy Castrucci,Pickup,"10""","Bacon, Leek & Gruyere Pie",1.0
+1699328454.0,completed,2023-08-17,Bonnie Donham,Pickup,,,1.0
+1699328454.0,completed,2023-08-17,Bonnie Donham,Pickup,"10""",Bacon Corn & Jalapeno Pie,1.0
+1601090852.0,completed,2023-08-13,Helen Kioroglou,Pickup,,,1.0
+1601090852.0,completed,2023-08-13,Helen Kioroglou,Pickup,"10""",Summer Peach Pie,1.0
+907036206.0,completed,2023-08-14,Annie Ferreira,Pickup,,,1.0
+907036206.0,completed,2023-08-14,Annie Ferreira,Pickup,"10""",Classic Apple Pie,2.0
+907036206.0,completed,2023-08-14,Annie Ferreira,Pickup,"10""",Key Lime Pie,1.0
+1090444759.0,completed,2023-08-13,Meghan Marangola,Pickup,,,1.0
+1090444759.0,completed,2023-08-13,Meghan Marangola,Pickup,"8""",Lemon Chess Pie w Fresh Blueberries,1.0
+1758955901.0,completed,2023-08-12,Li-Kuei Hung,Pickup,,,1.0
+1758955901.0,completed,2023-08-12,Li-Kuei Hung,Pickup,"5""",Peach Blackberry Pie,1.0
+1551327922.0,completed,2023-08-14,Lisa Borinsky,Pickup,,,1.0
+1551327922.0,completed,2023-08-14,Lisa Borinsky,Pickup,"10""",Summer Peach Pie,1.0
+1551327922.0,completed,2023-08-14,Lisa Borinsky,Pickup,"10""","Fresh Mozzarella, Tomato & Basil Pie",1.0
+1551327922.0,completed,2023-08-14,Lisa Borinsky,Pickup,,Triple Berry Scone,3.0
+1551327922.0,completed,2023-08-14,Lisa Borinsky,Pickup,,Bacon Cheddar Scallion Biscuit,6.0
+299541011.0,completed,2023-08-12,Rosemary Huang,Pickup,,,6.0
+299541011.0,completed,2023-08-12,Rosemary Huang,Pickup,"5""",Summer Peach Pie,1.0
+299541011.0,completed,2023-08-12,Rosemary Huang,Pickup,"5""",Apple Crumb Pie,1.0
+299541011.0,completed,2023-08-12,Rosemary Huang,Pickup,"5""",Brown Butter Pecan Pie,1.0
+864778110.0,completed,2023-08-12,Sergii Bondarenko,Pickup,,,1.0
+864778110.0,completed,2023-08-12,Sergii Bondarenko,Pickup,"10""",Peach Blackberry Pie,1.0
+864778110.0,completed,2023-08-12,Sergii Bondarenko,Pickup,"10""",Apple Crumb Pie,1.0
+415728879.0,completed,2023-08-12,Francis DiMario,Pickup,,,1.0
+415728879.0,completed,2023-08-12,Francis DiMario,Pickup,"8""",Peach Blackberry Pie,1.0
+415728879.0,completed,2023-08-12,Francis DiMario,Pickup,"8""",Classic Apple Pie,1.0
+972285686.0,pending,2023-08-25,Lynn Laurie,Pickup,,,1.0
+972285686.0,pending,2023-08-25,Lynn Laurie,Pickup,"10""","Fresh Mozzarella, Tomato & Basil Pie",3.0
+972285686.0,pending,2023-08-25,Lynn Laurie,Pickup,"10""",Bacon Corn & Jalapeno Pie,2.0
+1154228232.0,completed,2023-08-13,Frances Bram,Pickup,,,2.0
+1154228232.0,completed,2023-08-13,Frances Bram,Pickup,"10""","Bacon, Leek & Gruyere Pie",1.0
+1154228232.0,completed,2023-08-13,Frances Bram,Pickup,"10""","Fresh Mozzarella, Tomato & Basil Pie",1.0
+1559609842.0,completed,2023-08-16,Rebecca Osgood,Delivery,,,1.0
+1559609842.0,completed,2023-08-16,Rebecca Osgood,Delivery,"10""",Mango Lassi Pie,1.0
+1559609842.0,completed,2023-08-16,Rebecca Osgood,Delivery,"10""",Lemon Chess Pie w Fresh Blueberries,1.0
+1559609842.0,completed,2023-08-16,Rebecca Osgood,Delivery,"10""",Key Lime Pie,1.0
+1559609842.0,completed,2023-08-16,Rebecca Osgood,Delivery,"10""",Classic Apple Pie,1.0
+1559609842.0,completed,2023-08-16,Rebecca Osgood,Delivery,"10""",Mississippi Mud Pie,1.0
+1559609842.0,completed,2023-08-16,Rebecca Osgood,Delivery,"10""",Brown Butter Pecan Pie,1.0
+1559609842.0,completed,2023-08-16,Rebecca Osgood,Delivery,"10""","Fresh Mozzarella, Tomato & Basil Pie",1.0
+1559609842.0,completed,2023-08-16,Rebecca Osgood,Delivery,"10""","Bacon, Leek & Gruyere Pie",1.0
+336010298.0,completed,2023-08-13,David Robertson,Pickup,,,1.0
+336010298.0,completed,2023-08-13,David Robertson,Pickup,"8""",Mississippi Mud Pie,1.0
+336010298.0,completed,2023-08-13,David Robertson,Pickup,"10""","Bacon, Leek & Gruyere Pie",1.0
+336010298.0,completed,2023-08-13,David Robertson,Pickup,,Mocha Chocolate Chunk Cookie,2.0
+336010298.0,completed,2023-08-13,David Robertson,Pickup,,Chocolate Chip Cookie,2.0
+336010298.0,completed,2023-08-13,David Robertson,Pickup,,Peanut Butter Cookie,2.0
+319134979.0,completed,2023-08-17,Jared Fujii,Pickup,,,2.0
+319134979.0,completed,2023-08-17,Jared Fujii,Pickup,,Bacon Cheddar Scallion Biscuit,6.0
+319134979.0,completed,2023-08-17,Jared Fujii,Pickup,,Lemon,4.0
+319134979.0,completed,2023-08-17,Jared Fujii,Pickup,,Buttermilk Currant,4.0
+319134979.0,completed,2023-08-17,Jared Fujii,Pickup,,Triple Berry,4.0
+319134979.0,completed,2023-08-17,Jared Fujii,Pickup,,Chocolate Chip Cookie,3.0
+319134979.0,completed,2023-08-17,Jared Fujii,Pickup,,Mocha Chocolate Chunk Cookie,3.0
+319134979.0,completed,2023-08-17,Jared Fujii,Pickup,,Dark Chocolate Apricot,3.0
+319134979.0,completed,2023-08-17,Jared Fujii,Pickup,,Peanut Butter Cookie,3.0
+319134979.0,completed,2023-08-17,Jared Fujii,Pickup,,Snickerdoodle Cookie,3.0
+319134979.0,completed,2023-08-17,Jared Fujii,Pickup,,Ginger Molasses Cookie,3.0
+319134979.0,completed,2023-08-17,Jared Fujii,Pickup,,Fresh Blueberry,3.0
+319134979.0,completed,2023-08-17,Jared Fujii,Pickup,,Corn w Rasp Jam,3.0
+1470117572.0,completed,2023-08-15,Michael Bayliss,Delivery,,,3.0
+1470117572.0,completed,2023-08-15,Michael Bayliss,Delivery,"8""",Summer Peach Pie,1.0
+1470117572.0,completed,2023-08-15,Michael Bayliss,Delivery,"5""",Key Lime Pie,1.0
+770882255.0,completed,2023-08-13,Carolyn Oshaughnessy,Pickup,,,1.0
+770882255.0,completed,2023-08-13,Carolyn Oshaughnessy,Pickup,"8""",Brown Butter Pecan Pie,1.0
+770882255.0,completed,2023-08-13,Carolyn Oshaughnessy,Pickup,"8""",Peach Blackberry Pie,1.0
+1714232553.0,completed,2023-08-13,Jeff Chou,Pickup,,,1.0
+1714232553.0,completed,2023-08-13,Jeff Chou,Pickup,"10""",Chocolate Bourbon Pecan Pie,2.0
+1714232553.0,completed,2023-08-13,Jeff Chou,Pickup,"8""",Summer Peach Pie,1.0
+1714232553.0,completed,2023-08-13,Jeff Chou,Pickup,"8""",Apple Crumb Pie,1.0
+2005349346.0,completed,2023-08-13,Seth Botos,Pickup,,,1.0
+2005349346.0,completed,2023-08-13,Seth Botos,Pickup,"8""",Brown Butter Pecan Pie,1.0
+748469246.0,completed,2023-08-14,Virginia Loeb,Pickup,,,1.0
+748469246.0,completed,2023-08-14,Virginia Loeb,Pickup,"8""",Summer Peach Pie,1.0
+748469246.0,completed,2023-08-14,Virginia Loeb,Pickup,,Ginger Molasses Cookie,2.0
+748469246.0,completed,2023-08-14,Virginia Loeb,Pickup,,Dark Chocolate Apricot,2.0
+748469246.0,completed,2023-08-14,Virginia Loeb,Pickup,,Peanut Butter Cookie,2.0
+1259823183.0,completed,2023-08-13,Nilda Drinkwater,Pickup,,,2.0
+1259823183.0,completed,2023-08-13,Nilda Drinkwater,Pickup,"8""",Key Lime Pie,1.0
+1948275615.0,completed,2023-08-19,Emily Alsentzer,Pickup,,,1.0
+1948275615.0,completed,2023-08-19,Emily Alsentzer,Pickup,"10""",Blueberry Pie,1.0
+1948275615.0,completed,2023-08-19,Emily Alsentzer,Pickup,"8""",Summer Peach Pie,1.0
+1948275615.0,completed,2023-08-19,Emily Alsentzer,Pickup,"10""","Bacon, Leek & Gruyere Pie",1.0
+123337593.0,completed,2023-08-14,Carina Viera,Pickup,,,1.0
+123337593.0,completed,2023-08-14,Carina Viera,Pickup,"8""",Vegan Blueberry Pie,1.0
+378393830.0,completed,2023-08-15,Robert Drozek,Pickup,,,1.0
+378393830.0,completed,2023-08-15,Robert Drozek,Pickup,"8""",Peach Blackberry Pie,1.0
+378393830.0,completed,2023-08-15,Robert Drozek,Pickup,"8""",Mixed Berry Pie,1.0
+467850460.0,completed,2023-08-17,Anna Assogba,Pickup,,,1.0
+467850460.0,completed,2023-08-17,Anna Assogba,Pickup,"10""",Peach Blackberry Pie,1.0
+513028052.0,completed,2023-08-14,Stephanie Foo,Pickup,,,1.0
+513028052.0,completed,2023-08-14,Stephanie Foo,Pickup,"10""",Brown Butter Pecan Pie,1.0
+1729874565.0,completed,2023-08-15,Michael Rowan,Pickup,,,1.0
+1729874565.0,completed,2023-08-15,Michael Rowan,Pickup,,Take 'n Thaw Chocolate Bourbon Pecan Pie,2.0
+483498068.0,completed,2023-08-19,Siddharth Sridhar,Pickup,,,2.0
+483498068.0,completed,2023-08-19,Siddharth Sridhar,Pickup,"10""",Brown Butter Pecan Pie,1.0
+483498068.0,completed,2023-08-19,Siddharth Sridhar,Pickup,"8""",Chocolate Bourbon Pecan Pie,1.0
+448920745.0,completed,2023-08-18,Meredith Porter,Pickup,,,1.0
+448920745.0,completed,2023-08-18,Meredith Porter,Pickup,"5""",Lemon Chess Pie w Fresh Blueberries,1.0
+448920745.0,completed,2023-08-18,Meredith Porter,Pickup,,Triple Berry Scone,1.0
+636333013.0,completed,2023-08-16,Elizabeth Borinsky,Pickup,,,1.0
+636333013.0,completed,2023-08-16,Elizabeth Borinsky,Pickup,"10""",Summer Peach Pie,1.0
+636333013.0,completed,2023-08-16,Elizabeth Borinsky,Pickup,,Chocolate Chip Cookie,2.0
+636333013.0,completed,2023-08-16,Elizabeth Borinsky,Pickup,,Mocha Chocolate Chunk Cookie,2.0
+2113666123.0,completed,2023-08-16,Mark Robart,Pickup,,,2.0
+2113666123.0,completed,2023-08-16,Mark Robart,Pickup,"10""",Summer Peach Pie,1.0
+948311328.0,completed,2023-08-15,Deborah Pierce,Pickup,,,1.0
+948311328.0,completed,2023-08-15,Deborah Pierce,Pickup,"10""",Blueberry Pie,1.0
+211376267.0,completed,2023-08-15,Mary Tiseo,Pickup,,,1.0
+211376267.0,completed,2023-08-15,Mary Tiseo,Pickup,"10""",Peach Blackberry Pie,1.0
+1821183182.0,completed,2023-08-16,Ruth Goodman,Pickup,,,1.0
+1821183182.0,completed,2023-08-16,Ruth Goodman,Pickup,"10""",Cherry Crumb Pie,1.0
+750296838.0,completed,2023-08-17,Lucy Assad,Pickup,,,1.0
+750296838.0,completed,2023-08-17,Lucy Assad,Pickup,"10""",Mango Lassi Pie,1.0
+750296838.0,completed,2023-08-17,Lucy Assad,Pickup,"8""",Summer Peach Pie,1.0
+655956865.0,completed,2023-08-16,Bota Saudabayeva,Pickup,,,1.0
+655956865.0,completed,2023-08-16,Bota Saudabayeva,Pickup,"5""",Mango Lassi Pie,1.0
+655956865.0,completed,2023-08-16,Bota Saudabayeva,Pickup,"5""",Mixed Berry Pie,1.0
+2114130726.0,completed,2023-08-20,Kathleen ARMANETTI,Pickup,,,1.0
+2114130726.0,completed,2023-08-20,Kathleen ARMANETTI,Pickup,"10""",Key Lime Pie,1.0
+1790827111.0,completed,2023-08-20,Evan Mauceli,Pickup,,,1.0
+1790827111.0,completed,2023-08-20,Evan Mauceli,Pickup,"8""",Mango Lassi Pie,1.0
+1790827111.0,completed,2023-08-20,Evan Mauceli,Pickup,"8""",Peach Blackberry Pie,1.0
+80747880.0,completed,2023-08-16,Kimberly Ransom,Pickup,,,1.0
+80747880.0,completed,2023-08-16,Kimberly Ransom,Pickup,"8""",Peach Blackberry Pie,1.0
+2038169867.0,completed,2023-08-17,Katherine Welbeck,Delivery,,,1.0
+2038169867.0,completed,2023-08-17,Katherine Welbeck,Delivery,"8""",Mango Lassi Pie,1.0
+2038169867.0,completed,2023-08-17,Katherine Welbeck,Delivery,,Chocolate Chip Cookie,1.0
+2038169867.0,completed,2023-08-17,Katherine Welbeck,Delivery,,Ginger Molasses Cookie,1.0
+2038169867.0,completed,2023-08-17,Katherine Welbeck,Delivery,,Dark Chocolate Apricot,2.0
+2038169867.0,completed,2023-08-17,Katherine Welbeck,Delivery,,Mocha Chocolate Chunk Cookie,2.0
+2038169867.0,completed,2023-08-17,Katherine Welbeck,Delivery,"5""",Peach Blackberry Pie,1.0
+2038169867.0,completed,2023-08-17,Katherine Welbeck,Delivery,"5""",Chocolate Bourbon Pecan Pie,1.0
+530812160.0,completed,2023-08-16,Nell Carlson,Pickup,,,1.0
+530812160.0,completed,2023-08-16,Nell Carlson,Pickup,,Lemon,6.0
+530812160.0,completed,2023-08-16,Nell Carlson,Pickup,,Triple Berry,6.0
+530812160.0,completed,2023-08-16,Nell Carlson,Pickup,"8""",Key Lime Pie,1.0
+676182153.0,completed,2023-08-16,Julien Thurin,Pickup,,,1.0
+676182153.0,completed,2023-08-16,Julien Thurin,Pickup,"10""","Bacon, Leek & Gruyere Pie",1.0
+1481384419.0,completed,2023-08-16,Charles Emerson,Pickup,,,1.0
+1481384419.0,completed,2023-08-16,Charles Emerson,Pickup,"10""",Chocolate Bourbon Pecan Pie,1.0
+1481384419.0,completed,2023-08-16,Charles Emerson,Pickup,"8""",Blueberry Pie,1.0
+682717445.0,completed,2023-08-17,Kristen Rummel,Pickup,,,1.0
+682717445.0,completed,2023-08-17,Kristen Rummel,Pickup,"10""",Mango Lassi Pie,1.0
+682717445.0,completed,2023-08-17,Kristen Rummel,Pickup,"8""",Peach Blackberry Pie,1.0
+1035633489.0,pending,2023-08-24,Mandy Evers,Pickup,,,1.0
+1035633489.0,pending,2023-08-24,Mandy Evers,Pickup,"5""",Mango Lassi Pie,2.0
+1035633489.0,pending,2023-08-24,Mandy Evers,Pickup,"5""",Key Lime Pie,4.0
+1035633489.0,pending,2023-08-24,Mandy Evers,Pickup,"5""",Vegan Apple Pie,2.0
+1898565592.0,completed,2023-08-21,Ryan Magnuson,Pickup,,,2.0
+1898565592.0,completed,2023-08-21,Ryan Magnuson,Pickup,"10""",Summer Peach Pie,1.0
+1898565592.0,completed,2023-08-21,Ryan Magnuson,Pickup,"5""",Lemon Chess Pie w Fresh Blueberries,1.0
+1898565592.0,completed,2023-08-21,Ryan Magnuson,Pickup,"5""",Mango Lassi Pie,1.0
+1898565592.0,completed,2023-08-21,Ryan Magnuson,Pickup,"8""",Chocolate Bourbon Pecan Pie,1.0
+2136058930.0,completed,2023-08-17,Emily Fairchild,Pickup,,,1.0
+2136058930.0,completed,2023-08-17,Emily Fairchild,Pickup,"8""",Brown Butter Pecan Pie,1.0
+1533672421.0,completed,2023-08-18,Amy Huang,Pickup,,,1.0
+1533672421.0,completed,2023-08-18,Amy Huang,Pickup,"10""",Key Lime Pie,1.0
+1192618437.0,completed,2023-08-17,Lauren Panzano,Pickup,,,1.0
+1192618437.0,completed,2023-08-17,Lauren Panzano,Pickup,"8""",Peach Blackberry Pie,1.0
+1192618437.0,completed,2023-08-17,Lauren Panzano,Pickup,"8""",Mixed Berry Pie,1.0
+1706304213.0,completed,2023-08-17,SUMING WANG,Pickup,,,1.0
+1706304213.0,completed,2023-08-17,SUMING WANG,Pickup,"8""",Summer Peach Pie,1.0
+1706304213.0,completed,2023-08-17,SUMING WANG,Pickup,"5""",Peach Blackberry Pie,1.0
+1706304213.0,completed,2023-08-17,SUMING WANG,Pickup,"5""",Cherry Crumb Pie,1.0
+1706304213.0,completed,2023-08-17,SUMING WANG,Pickup,"5""",Brown Butter Pecan Pie,1.0
+452885040.0,completed,2023-08-18,Robert Sobolewski,Pickup,,,1.0
+452885040.0,completed,2023-08-18,Robert Sobolewski,Pickup,"10""",Blueberry Pie,1.0
+1337169051.0,completed,2023-08-18,Maryann OBrien,Pickup,,,1.0
+1337169051.0,completed,2023-08-18,Maryann OBrien,Pickup,"10""","Bacon, Leek & Gruyere Pie",1.0
+1337169051.0,completed,2023-08-18,Maryann OBrien,Pickup,"10""",Mississippi Mud Pie,1.0
+1252241906.0,completed,2023-08-18,Kaitlin Gallo,Pickup,,,1.0
+1252241906.0,completed,2023-08-18,Kaitlin Gallo,Pickup,"10""","Fresh Mozzarella, Tomato & Basil Pie",1.0
+1252241906.0,completed,2023-08-18,Kaitlin Gallo,Pickup,"8""",Mango Lassi Pie,1.0
+1252241906.0,completed,2023-08-18,Kaitlin Gallo,Pickup,"5""",Summer Peach Pie,1.0
+1268338369.0,completed,2023-08-17,Barbara Allen,Pickup,,,1.0
+1268338369.0,completed,2023-08-17,Barbara Allen,Pickup,"10""",Key Lime Pie,1.0
+584402338.0,completed,2023-08-18,Amy Wilhelm,Delivery,,,1.0
+584402338.0,completed,2023-08-18,Amy Wilhelm,Delivery,"8""",Cherry Crumb Pie,1.0
+584402338.0,completed,2023-08-18,Amy Wilhelm,Delivery,,Chocolate Chip Cookie,1.0
+584402338.0,completed,2023-08-18,Amy Wilhelm,Delivery,,Ginger Molasses Cookie,1.0
+584402338.0,completed,2023-08-18,Amy Wilhelm,Delivery,,Dark Chocolate Apricot,1.0
+584402338.0,completed,2023-08-18,Amy Wilhelm,Delivery,,Peanut Butter Cookie,1.0
+584402338.0,completed,2023-08-18,Amy Wilhelm,Delivery,,Mocha Chocolate Chunk Cookie,1.0
+584402338.0,completed,2023-08-18,Amy Wilhelm,Delivery,,Snickerdoodle Cookie,1.0
+941435651.0,completed,2023-08-18,Cheryl Prendergast,Pickup,,,1.0
+941435651.0,completed,2023-08-18,Cheryl Prendergast,Pickup,"5""",Key Lime Pie,1.0
+941435651.0,completed,2023-08-18,Cheryl Prendergast,Pickup,"10""",Blueberry Pie,1.0
+1588849166.0,completed,2023-08-19,Aykut Onol,Pickup,,,1.0
+1588849166.0,completed,2023-08-19,Aykut Onol,Pickup,"10""",Brown Butter Pecan Pie,1.0
+1588849166.0,completed,2023-08-19,Aykut Onol,Pickup,"8""",Mango Lassi Pie,1.0
+1588849166.0,completed,2023-08-19,Aykut Onol,Pickup,"8""",Peach Blackberry Pie,1.0
+650879232.0,completed,2023-08-19,Ellen Roth,Pickup,,,1.0
+650879232.0,completed,2023-08-19,Ellen Roth,Pickup,"8""",Summer Peach Pie,1.0
+306690265.0,completed,2023-08-18,SOPHIA K SID,Delivery,,,1.0
+306690265.0,completed,2023-08-18,SOPHIA K SID,Delivery,"10""",Peach Blackberry Pie,1.0
+306690265.0,completed,2023-08-18,SOPHIA K SID,Delivery,"8""",Lemon Chess Pie w Fresh Blueberries,1.0
+559545691.0,completed,2023-08-19,Kayla Hussey,Pickup,,,1.0
+559545691.0,completed,2023-08-19,Kayla Hussey,Pickup,"10""",Summer Peach Pie,1.0
+559545691.0,completed,2023-08-19,Kayla Hussey,Pickup,"10""",Chocolate Bourbon Pecan Pie,1.0
+1517531099.0,completed,2023-08-18,Kelly Snyder,Pickup,,,1.0
+1517531099.0,completed,2023-08-18,Kelly Snyder,Pickup,"5""",Vegan Mixed Berry Pie,1.0
+2106740821.0,completed,2023-08-18,Sarah Wahlen,Pickup,,,1.0
+2106740821.0,completed,2023-08-18,Sarah Wahlen,Pickup,"8""",Brown Butter Pecan Pie,1.0
+2106740821.0,completed,2023-08-18,Sarah Wahlen,Pickup,"5""",Chocolate Bourbon Pecan Pie,1.0
+2106740821.0,completed,2023-08-18,Sarah Wahlen,Pickup,"5""",Summer Peach Pie,1.0
+2106740821.0,completed,2023-08-18,Sarah Wahlen,Pickup,"5""",Key Lime Pie,1.0
+1343170426.0,cancelled,2023-08-18,SOPHIA K SID,Pickup,,,1.0
+1343170426.0,cancelled,2023-08-18,SOPHIA K SID,Pickup,"8""",Lemon Chess Pie w Fresh Blueberries,1.0
+1343170426.0,cancelled,2023-08-18,SOPHIA K SID,Pickup,"10""",Peach Blackberry Pie,1.0
+1642147126.0,completed,2023-08-18,Hanneliese Scheel,Pickup,,,1.0
+1642147126.0,completed,2023-08-18,Hanneliese Scheel,Pickup,"8""",Vegan Blueberry Pie,1.0
+278308635.0,cancelled,2023-08-18,Sophia Sid,Pickup,,,1.0
+278308635.0,cancelled,2023-08-18,Sophia Sid,Pickup,"8""",Lemon Chess Pie w Fresh Blueberries,1.0
+278308635.0,cancelled,2023-08-18,Sophia Sid,Pickup,"10""",Peach Blackberry Pie,1.0
+577613312.0,completed,2023-08-19,Keren Alfred,Pickup,,,1.0
+577613312.0,completed,2023-08-19,Keren Alfred,Pickup,"8""",Chocolate Bourbon Pecan Pie,1.0
+1486910557.0,completed,2023-08-18,Micaela Kaplan,Pickup,,,1.0
+1486910557.0,completed,2023-08-18,Micaela Kaplan,Pickup,"5""",Mississippi Mud Pie,1.0
+1486910557.0,completed,2023-08-18,Micaela Kaplan,Pickup,"5""",Bacon Corn & Jalapeno Pie,1.0
+1922746960.0,completed,2023-08-20,dar marshall,Pickup,,,1.0
+1922746960.0,completed,2023-08-20,dar marshall,Pickup,"8""",Summer Peach Pie,1.0
+1922746960.0,completed,2023-08-20,dar marshall,Pickup,"5""","Bacon, Leek & Gruyere Pie",1.0
+1922746960.0,completed,2023-08-20,dar marshall,Pickup,"5""",Bacon Corn & Jalapeno Pie,1.0
+1249999631.0,completed,2023-08-19,Daniel Dowling,Pickup,,,1.0
+1249999631.0,completed,2023-08-19,Daniel Dowling,Pickup,"10""",Peach Blackberry Pie,1.0
+1249999631.0,completed,2023-08-19,Daniel Dowling,Pickup,"10""",Chocolate Bourbon Pecan Pie,1.0
+1558606876.0,completed,2023-08-19,Jennifer Belanger,Pickup,,,1.0
+1558606876.0,completed,2023-08-19,Jennifer Belanger,Pickup,"10""",Key Lime Pie,1.0
+94926341.0,completed,2023-08-19,Jennifer Belanger,Pickup,,,1.0
+94926341.0,completed,2023-08-19,Jennifer Belanger,Pickup,"10""","Fresh Mozzarella, Tomato & Basil Pie",1.0
+1968828705.0,completed,2023-08-20,Kevin Sullivan,Pickup,,,1.0
+1968828705.0,completed,2023-08-20,Kevin Sullivan,Pickup,"8""",Mango Lassi Pie,1.0
+1968828705.0,completed,2023-08-20,Kevin Sullivan,Pickup,"10""",Bacon Corn & Jalapeno Pie,1.0
+2058237822.0,completed,2023-08-19,Casey Freedman,Pickup,,,1.0
+2058237822.0,completed,2023-08-19,Casey Freedman,Pickup,"8""",Mango Lassi Pie,1.0
+402805910.0,completed,2023-08-19,Ian Barber,Pickup,,,1.0
+402805910.0,completed,2023-08-19,Ian Barber,Pickup,"10""",Chocolate Bourbon Pecan Pie,1.0
+402805910.0,completed,2023-08-19,Ian Barber,Pickup,"10""",Mixed Berry Pie,1.0
+1164249950.0,pending,2023-08-26,Susanna Barry,Pickup,,,1.0
+1164249950.0,pending,2023-08-26,Susanna Barry,Pickup,"10""","Fresh Mozzarella, Tomato & Basil Pie",1.0
+833884653.0,completed,2023-08-19,ALLISON REGNA,Pickup,,,1.0
+833884653.0,completed,2023-08-19,ALLISON REGNA,Pickup,"8""",Chocolate Bourbon Pecan Pie,1.0
+833884653.0,completed,2023-08-19,ALLISON REGNA,Pickup,"8""",Mixed Berry Pie,1.0
+1655991997.0,completed,2023-08-19,Carrie Blazina,Pickup,,,1.0
+1655991997.0,completed,2023-08-19,Carrie Blazina,Pickup,"8""",Mango Lassi Pie,1.0
+2133061201.0,completed,2023-08-19,Sara Bairos,Pickup,,,1.0
+2133061201.0,completed,2023-08-19,Sara Bairos,Pickup,"5""",Key Lime Pie,1.0
+2133061201.0,completed,2023-08-19,Sara Bairos,Pickup,"10""",Mango Lassi Pie,1.0
+37035753.0,completed,2023-08-19,Heather Romero,Pickup,,,1.0
+37035753.0,completed,2023-08-19,Heather Romero,Pickup,"10""",Peach Blackberry Pie,1.0
+1976622640.0,completed,2023-08-19,Botond Oreg,Pickup,,,1.0
+1976622640.0,completed,2023-08-19,Botond Oreg,Pickup,"8""",Mango Lassi Pie,1.0
+1383086464.0,completed,2023-08-19,Cecelia Cobb,Pickup,,,1.0
+1383086464.0,completed,2023-08-19,Cecelia Cobb,Pickup,"5""",Lemon Chess Pie w Fresh Blueberries,1.0
+1383086464.0,completed,2023-08-19,Cecelia Cobb,Pickup,"5""",Summer Peach Pie,1.0
+1383086464.0,completed,2023-08-19,Cecelia Cobb,Pickup,"5""",Key Lime Pie,1.0
+1383086464.0,completed,2023-08-19,Cecelia Cobb,Pickup,"5""",Mixed Berry Pie,1.0
+1007809827.0,completed,2023-08-20,Emily Bromley,Pickup,,,1.0
+1007809827.0,completed,2023-08-20,Emily Bromley,Pickup,"10""",Mango Lassi Pie,1.0
+1089812316.0,completed,2023-08-20,Lauren Kimball,Pickup,,,1.0
+1089812316.0,completed,2023-08-20,Lauren Kimball,Pickup,"5""","Bacon, Leek & Gruyere Pie",1.0
+1089812316.0,completed,2023-08-20,Lauren Kimball,Pickup,"5""",Bacon Corn & Jalapeno Pie,1.0
+1089812316.0,completed,2023-08-20,Lauren Kimball,Pickup,"5""",Blueberry Pie,1.0
+1089812316.0,completed,2023-08-20,Lauren Kimball,Pickup,"5""",Key Lime Pie,1.0
+1089812316.0,completed,2023-08-20,Lauren Kimball,Pickup,"5""","Fresh Mozzarella, Tomato & Basil Pie",1.0
+1030273630.0,pending,2023-08-25,Nicholas Alberts,Pickup,,,1.0
+1030273630.0,pending,2023-08-25,Nicholas Alberts,Pickup,"10""",Lemon Chess Pie w Fresh Blueberries,1.0
+1030273630.0,pending,2023-08-25,Nicholas Alberts,Pickup,"10""",Peach Blackberry Pie,1.0
+1523433731.0,completed,2023-08-20,Karen Weierman,Pickup,,,1.0
+1523433731.0,completed,2023-08-20,Karen Weierman,Pickup,"10""",Blueberry Pie,1.0
+1037744049.0,completed,2023-08-21,Maggie Pickard,Pickup,,,1.0
+1037744049.0,completed,2023-08-21,Maggie Pickard,Pickup,"5""",Key Lime Pie,1.0
+1619413340.0,completed,2023-08-21,Margot A Sigur,Pickup,,,1.0
+1619413340.0,completed,2023-08-21,Margot A Sigur,Pickup,"8""",Mango Lassi Pie,1.0
+1059199394.0,pending,2023-08-31,Malik Williams,Pickup,,,1.0
+1059199394.0,pending,2023-08-31,Malik Williams,Pickup,"5""",Summer Peach Pie,1.0
+1059199394.0,pending,2023-08-31,Malik Williams,Pickup,"5""",Peach Blackberry Pie,1.0
+544998568.0,pending,2023-08-25,Theresa Mason,Delivery,,,1.0
+544998568.0,pending,2023-08-25,Theresa Mason,Delivery,"10""",Cherry Crumb Pie,1.0
+544998568.0,pending,2023-08-25,Theresa Mason,Delivery,"8""",Mango Lassi Pie,1.0
+1057625458.0,completed,2023-08-21,Mary Patricia Miratrix,Pickup,,,1.0
+1057625458.0,completed,2023-08-21,Mary Patricia Miratrix,Pickup,"10""",Vegan Cherry Pie,1.0
+1057625458.0,completed,2023-08-21,Mary Patricia Miratrix,Pickup,"10""",Mixed Berry Pie,1.0
+1057625458.0,completed,2023-08-21,Mary Patricia Miratrix,Pickup,,Note Card by Sarah Dudek,1.0
+1081170055.0,pending,2023-08-25,Hana Cornwell,Pickup,,,1.0
+1081170055.0,pending,2023-08-25,Hana Cornwell,Pickup,"10""",Lemon Chess Pie w Fresh Blueberries,1.0
+1081170055.0,pending,2023-08-25,Hana Cornwell,Pickup,"10""",Peach Blackberry Pie,1.0
+91682086.0,completed,2023-08-22,Marian Ingegneri,Pickup,,,1.0
+91682086.0,completed,2023-08-22,Marian Ingegneri,Pickup,"8""",Mango Lassi Pie,1.0
+91682086.0,completed,2023-08-22,Marian Ingegneri,Pickup,"10""","Fresh Mozzarella, Tomato & Basil Pie",1.0
+114702347.0,completed,2023-08-23,Malcolm Pittman,Pickup,,,1.0
+114702347.0,completed,2023-08-23,Malcolm Pittman,Pickup,"10""","Bacon, Leek & Gruyere Pie",1.0
+114702347.0,completed,2023-08-23,Malcolm Pittman,Pickup,,Fresh Blueberry,4.0
+114702347.0,completed,2023-08-23,Malcolm Pittman,Pickup,,Corn w Rasp Jam,2.0
+1758301095.0,cancelled,2023-08-28,Rachel Knipe,Pickup,,,2.0
+1758301095.0,cancelled,2023-08-28,Rachel Knipe,Pickup,"10""",Summer Peach Pie,1.0
+1758301095.0,cancelled,2023-08-28,Rachel Knipe,Pickup,"10""","Bacon, Leek & Gruyere Pie",1.0
+648909460.0,completed,2023-08-23,Rick Wood,Pickup,,,1.0
+648909460.0,completed,2023-08-23,Rick Wood,Pickup,"8""",Summer Peach Pie,1.0
+255598844.0,pending,2023-08-26,Ellen Stephano,Pickup,,,1.0
+255598844.0,pending,2023-08-26,Ellen Stephano,Pickup,"10""",Mixed Berry Pie,1.0
+255598844.0,pending,2023-08-26,Ellen Stephano,Pickup,"10""",Lemon Chess Pie w Fresh Blueberries,1.0
+255598844.0,pending,2023-08-26,Ellen Stephano,Pickup,"10""",Cherry Crumb Pie,1.0
+255598844.0,pending,2023-08-26,Ellen Stephano,Pickup,"10""",Key Lime Pie,1.0
+255598844.0,pending,2023-08-26,Ellen Stephano,Pickup,"10""",Mississippi Mud Pie,1.0
+393017572.0,completed,2023-08-22,Susan OConnell,Pickup,,,1.0
+393017572.0,completed,2023-08-22,Susan OConnell,Pickup,"8""",Key Lime Pie,1.0
+393017572.0,completed,2023-08-22,Susan OConnell,Pickup,"5""",Key Lime Pie,1.0
+1514299598.0,completed,2023-08-23,Grace Adamson,Pickup,,,1.0
+1514299598.0,completed,2023-08-23,Grace Adamson,Pickup,"5""",Peach Blackberry Pie,1.0
+1514299598.0,completed,2023-08-23,Grace Adamson,Pickup,"5""",Summer Peach Pie,1.0
+1514299598.0,completed,2023-08-23,Grace Adamson,Pickup,"5""",Blueberry Pie,1.0
+1791835479.0,pending,2023-08-27,Sofia Estrada,Pickup,,,1.0
+1791835479.0,pending,2023-08-27,Sofia Estrada,Pickup,"10""","Bacon, Leek & Gruyere Pie",1.0
+721435710.0,pending,2023-08-25,Ben Rattet,Pickup,,,1.0
+721435710.0,pending,2023-08-25,Ben Rattet,Pickup,"10""",Apple Crumb Pie,1.0
+834516806.0,completed,2023-08-23,Laura Bagamery,Pickup,,,1.0
+834516806.0,completed,2023-08-23,Laura Bagamery,Pickup,"8""",Key Lime Pie,1.0
+834516806.0,completed,2023-08-23,Laura Bagamery,Pickup,"8""",Mississippi Mud Pie,1.0
+694676295.0,pending,2023-08-24,Mary Lesko,Pickup,,,1.0
+694676295.0,pending,2023-08-24,Mary Lesko,Pickup,"10""",Blueberry Pie,1.0
+694676295.0,pending,2023-08-24,Mary Lesko,Pickup,,Bacon Cheddar Scallion Biscuit,1.0
+640678975.0,cancelled,2023-08-23,Namitha Jalori,Pickup,,,1.0
+640678975.0,cancelled,2023-08-23,Namitha Jalori,Pickup,"10""","Fresh Mozzarella, Tomato & Basil Pie",1.0
+640678975.0,cancelled,2023-08-23,Namitha Jalori,Pickup,"10""",Summer Peach Pie,1.0
+264033665.0,completed,2023-08-23,Rose Marie Adamo,Pickup,,,1.0
+264033665.0,completed,2023-08-23,Rose Marie Adamo,Pickup,"8""",Apple Crumb Pie,1.0
+307791752.0,pending,2023-08-26,Jamie Marshall,Pickup,,,1.0
+307791752.0,pending,2023-08-26,Jamie Marshall,Pickup,"8""",Cherry Crumb Pie,1.0
+307791752.0,pending,2023-08-26,Jamie Marshall,Pickup,"8""",Peach Blackberry Pie,1.0
+307791752.0,pending,2023-08-26,Jamie Marshall,Pickup,,Take 'n Bake Classic Apple Pie,1.0
+154901368.0,completed,2023-08-23,Amy Jones,Pickup,,,1.0
+154901368.0,completed,2023-08-23,Amy Jones,Pickup,"10""",Key Lime Pie,1.0
+81440059.0,pending,2023-08-25,Meredith Porter,Pickup,,,1.0
+81440059.0,pending,2023-08-25,Meredith Porter,Pickup,"5""",Peach Blackberry Pie,1.0
+81440059.0,pending,2023-08-25,Meredith Porter,Pickup,,Triple Berry Scone,1.0
+33954619.0,completed,2023-08-23,Melissa Gonzalez,Pickup,,,1.0
+33954619.0,completed,2023-08-23,Melissa Gonzalez,Pickup,"5""","Bacon, Leek & Gruyere Pie",2.0
+33954619.0,completed,2023-08-23,Melissa Gonzalez,Pickup,,Blueberry Muffin,3.0
+467796975.0,completed,2023-08-23,Jennifer Allard,Pickup,,,3.0
+467796975.0,completed,2023-08-23,Jennifer Allard,Pickup,,Buttermilk Currant Scone,2.0
+467796975.0,completed,2023-08-23,Jennifer Allard,Pickup,,Peanut Butter Cookie,1.0
+467796975.0,completed,2023-08-23,Jennifer Allard,Pickup,,Earl Grey Iced Tea,1.0
+2128320719.0,completed,2023-08-23,Irle Goldman,Pickup,,,1.0
+2128320719.0,completed,2023-08-23,Irle Goldman,Pickup,"10""",Summer Peach Pie,1.0
+2128320719.0,completed,2023-08-23,Irle Goldman,Pickup,"10""",Classic Apple Pie,1.0
+1270575376.0,pending,2023-08-25,Thomas A Sheehan,Pickup,,,1.0
+1270575376.0,pending,2023-08-25,Thomas A Sheehan,Pickup,"10""","Bacon, Leek & Gruyere Pie",1.0
+1270575376.0,pending,2023-08-25,Thomas A Sheehan,Pickup,"10""","Fresh Mozzarella, Tomato & Basil Pie",2.0
+561157361.0,pending,2023-08-24,Lauren Jung,Pickup,,,2.0
+561157361.0,pending,2023-08-24,Lauren Jung,Pickup,"10""",Chocolate Bourbon Pecan Pie,1.0
+561157361.0,pending,2023-08-24,Lauren Jung,Pickup,"10""","Bacon, Leek & Gruyere Pie",3.0
+561157361.0,pending,2023-08-24,Lauren Jung,Pickup,"10""","Fresh Mozzarella, Tomato & Basil Pie",3.0
+561157361.0,pending,2023-08-24,Lauren Jung,Pickup,"8""",Vegan Apple Pie,1.0
+360128379.0,pending,2023-08-24,Kristin Welliver,Pickup,,,1.0
+360128379.0,pending,2023-08-24,Kristin Welliver,Pickup,"8""",Summer Peach Pie,1.0
+1195262878.0,pending,2023-08-24,Markos Markakis,Delivery,,,1.0
+1195262878.0,pending,2023-08-24,Markos Markakis,Delivery,"5""","Fresh Mozzarella, Tomato & Basil Pie",1.0
+1195262878.0,pending,2023-08-24,Markos Markakis,Delivery,"8""",Peach Blackberry Pie,1.0
+1195262878.0,pending,2023-08-24,Markos Markakis,Delivery,"8""",Classic Apple Pie,1.0
+1195262878.0,pending,2023-08-24,Markos Markakis,Delivery,"8""",Chocolate Bourbon Pecan Pie,2.0
+894151408.0,pending,2023-08-24,Steven Baranowski,Delivery,,,2.0
+894151408.0,pending,2023-08-24,Steven Baranowski,Delivery,"8""",(Gift) Key Lime Pie,1.0
+1859098206.0,pending,2023-08-25,Lisa M Sturgeon,Pickup,,,1.0
+1859098206.0,pending,2023-08-25,Lisa M Sturgeon,Pickup,"8""",Summer Peach Pie,1.0
+2060501564.0,pending,2023-08-25,Milo Tong,Pickup,,,1.0
+2060501564.0,pending,2023-08-25,Milo Tong,Pickup,"10""",Summer Peach Pie,1.0
+161140898.0,pending,2023-08-24,Anthony Iarrobino,Pickup,,,1.0
+161140898.0,pending,2023-08-24,Anthony Iarrobino,Pickup,"8""",Peach Blackberry Pie,1.0
+842995969.0,pending,2023-08-26,David Shepard,Pickup,,,1.0
+842995969.0,pending,2023-08-26,David Shepard,Pickup,"8""",Mango Lassi Pie,1.0
+842995969.0,pending,2023-08-26,David Shepard,Pickup,"8""",Summer Peach Pie,1.0
+842995969.0,pending,2023-08-26,David Shepard,Pickup,"10""","Fresh Mozzarella, Tomato & Basil Pie",1.0
+422737067.0,pending,2023-08-25,Barbara Ligon,Pickup,,,1.0
+422737067.0,pending,2023-08-25,Barbara Ligon,Pickup,"10""",Lemon Chess Pie w Fresh Blueberries,1.0
+422737067.0,pending,2023-08-25,Barbara Ligon,Pickup,"8""",Mixed Berry Pie,1.0
+960533069.0,pending,2023-08-25,Jacquelyn Bouvier,Pickup,,,1.0
+960533069.0,pending,2023-08-25,Jacquelyn Bouvier,Pickup,"10""","Bacon, Leek & Gruyere Pie",1.0
+960533069.0,pending,2023-08-25,Jacquelyn Bouvier,Pickup,"10""",Bacon Corn & Jalapeno Pie,1.0
+770427372.0,pending,2023-08-25,marc selby,Pickup,,,1.0
+770427372.0,pending,2023-08-25,marc selby,Pickup,"10""",Mississippi Mud Pie,1.0
+1787778983.0,pending,2023-08-26,Alexander Susienka,Pickup,,,1.0
+1787778983.0,pending,2023-08-26,Alexander Susienka,Pickup,"8""",Mango Lassi Pie,1.0
+1787778983.0,pending,2023-08-26,Alexander Susienka,Pickup,"8""",Lemon Chess Pie w Fresh Blueberries,1.0
+1787778983.0,pending,2023-08-26,Alexander Susienka,Pickup,"8""",Chocolate Bourbon Pecan Pie,1.0
+1787778983.0,pending,2023-08-26,Alexander Susienka,Pickup,,Bacon Cheddar Scallion Biscuit,1.0
+1521400294.0,pending,2023-08-25,Abigail Fry,Pickup,,,1.0
+1521400294.0,pending,2023-08-25,Abigail Fry,Pickup,"8""",Summer Peach Pie,1.0
+1451773228.0,pending,2023-08-25,Howard Levy,Delivery,,,1.0
+1451773228.0,pending,2023-08-25,Howard Levy,Delivery,"8""",Summer Peach Pie,1.0
+1451773228.0,pending,2023-08-25,Howard Levy,Delivery,"8""",Blueberry Pie,1.0
+391974404.0,pending,2023-08-25,H Hyun,Pickup,,,1.0
+391974404.0,pending,2023-08-25,H Hyun,Pickup,"10""",Mixed Berry Pie,1.0
+391974404.0,pending,2023-08-25,H Hyun,Pickup,"10""","Fresh Mozzarella, Tomato & Basil Pie",1.0
+1519655928.0,pending,2023-08-28,Janet Sherwood,Pickup,,,1.0
+1519655928.0,pending,2023-08-28,Janet Sherwood,Pickup,"10""",Summer Peach Pie,1.0
+1519655928.0,pending,2023-08-28,Janet Sherwood,Pickup,"10""",Chicken Pot Pie,1.0
+143460999.0,pending,2023-08-27,Phillip W Baraona,Pickup,,,1.0
+143460999.0,pending,2023-08-27,Phillip W Baraona,Pickup,"8""",Summer Peach Pie,1.0
+1627712518.0,pending,2023-08-25,Colton Volpe,Pickup,,,1.0
+1627712518.0,pending,2023-08-25,Colton Volpe,Pickup,"8""",Peach Blackberry Pie,1.0
+14720095.0,cancelled,2023-08-26,Ken Busbin,Pickup,,,1.0
+14720095.0,cancelled,2023-08-26,Ken Busbin,Pickup,"8""",Chocolate Bourbon Pecan Pie,1.0
+1062116356.0,pending,2023-08-26,Marlene McKenna,Pickup,,,1.0
+1062116356.0,pending,2023-08-26,Marlene McKenna,Pickup,"10""",Peach Blackberry Pie,1.0
+1062116356.0,pending,2023-08-26,Marlene McKenna,Pickup,"5""",Chocolate Bourbon Pecan Pie,1.0
+1062116356.0,pending,2023-08-26,Marlene McKenna,Pickup,"5""",Summer Peach Pie,1.0
+325885648.0,pending,2023-08-26,ANISSA DICKERSON,Pickup,,,1.0
+325885648.0,pending,2023-08-26,ANISSA DICKERSON,Pickup,"8""",Mango Lassi Pie,1.0
+325885648.0,pending,2023-08-26,ANISSA DICKERSON,Pickup,"8""",Peach Blackberry Pie,1.0
+1298110498.0,pending,2023-08-26,Quint Forgey,Delivery,,,1.0
+1298110498.0,pending,2023-08-26,Quint Forgey,Delivery,"10""",(Gift) Mixed Berry Pie,1.0
+918589698.0,pending,2023-08-27,Kathleen Pollitt,Pickup,,,1.0
+918589698.0,pending,2023-08-27,Kathleen Pollitt,Pickup,"8""",Key Lime Pie,1.0
+918589698.0,pending,2023-08-27,Kathleen Pollitt,Pickup,"10""","Fresh Mozzarella, Tomato & Basil Pie",1.0
+1483410674.0,pending,2023-08-26,Nancy Amari,Pickup,,,1.0
+1483410674.0,pending,2023-08-26,Nancy Amari,Pickup,"10""",Classic Apple Pie,1.0
+1483410674.0,pending,2023-08-26,Nancy Amari,Pickup,"8""",Cherry Crumb Pie,1.0
+1483410674.0,pending,2023-08-26,Nancy Amari,Pickup,"5""",Key Lime Pie,1.0
+1780212551.0,pending,2023-08-26,Delia Rissmiller,Pickup,,,1.0
+1780212551.0,pending,2023-08-26,Delia Rissmiller,Pickup,"10""",Blueberry Pie,1.0
+152757203.0,pending,2023-08-26,Carolyn Goldstein,Pickup,,,1.0
+152757203.0,pending,2023-08-26,Carolyn Goldstein,Pickup,"10""",Blueberry Pie,1.0
+50601470.0,pending,2023-08-28,Julia DeAngelo,Pickup,,,1.0
+50601470.0,pending,2023-08-28,Julia DeAngelo,Pickup,"10""",Chocolate Bourbon Pecan Pie,1.0
+50601470.0,pending,2023-08-28,Julia DeAngelo,Pickup,"10""",Vegan Blueberry Pie,1.0
+1731854976.0,pending,2023-08-30,Walker Anderson,Pickup,,,1.0
+1731854976.0,pending,2023-08-30,Walker Anderson,Pickup,"8""",Key Lime Pie,1.0
+2128415690.0,pending,2023-08-27,Edward Cohen,Pickup,,,1.0
+2128415690.0,pending,2023-08-27,Edward Cohen,Pickup,"10""",Mixed Berry Pie,1.0
+1754290908.0,pending,2023-08-27,Marcia Halperin,Pickup,,,1.0
+1754290908.0,pending,2023-08-27,Marcia Halperin,Pickup,"10""","Fresh Mozzarella, Tomato & Basil Pie",1.0
+1754290908.0,pending,2023-08-27,Marcia Halperin,Pickup,"10""","Bacon, Leek & Gruyere Pie",1.0
+331681282.0,pending,2023-08-27,Liz Woolcock,Pickup,,,1.0
+331681282.0,pending,2023-08-27,Liz Woolcock,Pickup,"10""",Summer Peach Pie,1.0
+975354203.0,pending,2023-08-27,Maggie Erwin,Pickup,,,1.0
+975354203.0,pending,2023-08-27,Maggie Erwin,Pickup,"5""",Summer Peach Pie,1.0
+975354203.0,pending,2023-08-27,Maggie Erwin,Pickup,"5""",Chocolate Bourbon Pecan Pie,1.0
+975354203.0,pending,2023-08-27,Maggie Erwin,Pickup,"5""",Blueberry Pie,1.0
+975354203.0,pending,2023-08-27,Maggie Erwin,Pickup,"10""","Bacon, Leek & Gruyere Pie",1.0
+975354203.0,pending,2023-08-27,Maggie Erwin,Pickup,"5""",Chicken Pot Pie,1.0
+606612809.0,pending,2023-08-27,Gideon Katsh,Pickup,,,1.0
+606612809.0,pending,2023-08-27,Gideon Katsh,Pickup,"8""",Blueberry Pie,1.0
+567607541.0,pending,2023-08-30,Kathleen McGinness,Pickup,,,1.0
+567607541.0,pending,2023-08-30,Kathleen McGinness,Pickup,"10""",Chocolate Bourbon Pecan Pie,1.0
+567607541.0,pending,2023-08-30,Kathleen McGinness,Pickup,"10""",Mixed Berry Pie,1.0
+567607541.0,pending,2023-08-30,Kathleen McGinness,Pickup,"8""",Lemon Chess Pie w Fresh Blueberries,1.0
+567607541.0,pending,2023-08-30,Kathleen McGinness,Pickup,"8""",Mississippi Mud Pie,1.0
+567607541.0,pending,2023-08-30,Kathleen McGinness,Pickup,"8""",Summer Peach Pie,1.0
+567607541.0,pending,2023-08-30,Kathleen McGinness,Pickup,"5""",Vegan Mixed Berry Pie,1.0
+567607541.0,pending,2023-08-30,Kathleen McGinness,Pickup,,Lemon Scone,1.0
+567607541.0,pending,2023-08-30,Kathleen McGinness,Pickup,,Bacon Cheddar Scallion Biscuit,1.0
+531435199.0,pending,2023-08-31,Laurie Turner,Pickup,,,1.0
+531435199.0,pending,2023-08-31,Laurie Turner,Pickup,"10""",Summer Peach Pie,1.0
+531435199.0,pending,2023-08-31,Laurie Turner,Pickup,"10""",Key Lime Pie,1.0
+1451888891.0,pending,2023-08-28,Rosie Jacobs,Pickup,,,1.0
+1451888891.0,pending,2023-08-28,Rosie Jacobs,Pickup,"10""",Classic Apple Pie,1.0
+1451888891.0,pending,2023-08-28,Rosie Jacobs,Pickup,"8""",Brown Butter Pecan Pie,1.0
+1451888891.0,pending,2023-08-28,Rosie Jacobs,Pickup,"10""",Mixed Berry Pie,1.0
+1451888891.0,pending,2023-08-28,Rosie Jacobs,Pickup,"8""",Key Lime Pie,1.0
+1034815880.0,pending,2023-08-29,Phyllis Sonnenschein,Pickup,,,1.0
+1034815880.0,pending,2023-08-29,Phyllis Sonnenschein,Pickup,"8""",Cherry Crumb Pie,1.0
+1034815880.0,pending,2023-08-29,Phyllis Sonnenschein,Pickup,"5""",Chicken Pot Pie,1.0
+1381090370.0,pending,2023-08-27,June Kinoshita,Pickup,,,1.0
+1381090370.0,pending,2023-08-27,June Kinoshita,Pickup,"10""",Summer Peach Pie,1.0
+1381090370.0,pending,2023-08-27,June Kinoshita,Pickup,"10""",Brown Butter Pecan Pie,1.0
+1381090370.0,pending,2023-08-27,June Kinoshita,Pickup,"10""","Bacon, Leek & Gruyere Pie",1.0
+1381090370.0,pending,2023-08-27,June Kinoshita,Pickup,"10""","Fresh Mozzarella, Tomato & Basil Pie",1.0
+1381090370.0,pending,2023-08-27,June Kinoshita,Pickup,"10""",Vegan Cherry Pie,1.0
+1450334264.0,pending,2023-08-27,Kenneth Busbin,Pickup,,,1.0
+1450334264.0,pending,2023-08-27,Kenneth Busbin,Pickup,"8""",Mississippi Mud Pie,1.0
+207401764.0,pending,2023-08-28,Linda Moroni,Pickup,,,1.0
+207401764.0,pending,2023-08-28,Linda Moroni,Pickup,"8""",Peach Blackberry Pie,1.0
+207401764.0,pending,2023-08-28,Linda Moroni,Pickup,"8""",Key Lime Pie,1.0
+207401764.0,pending,2023-08-28,Linda Moroni,Pickup,"5""",Cherry Crumb Pie,1.0
+856239872.0,pending,2023-08-31,Laryssa Thompson,Pickup,,,1.0
+856239872.0,pending,2023-08-31,Laryssa Thompson,Pickup,"8""",Key Lime Pie,1.0
+856239872.0,pending,2023-08-31,Laryssa Thompson,Pickup,,Lemon Scone,2.0
+856239872.0,pending,2023-08-31,Laryssa Thompson,Pickup,,Triple Berry Scone,2.0
+109190729.0,pending,2023-08-28,Jonathan Donner,Pickup,,,2.0
+109190729.0,pending,2023-08-28,Jonathan Donner,Pickup,"10""","Bacon, Leek & Gruyere Pie",1.0

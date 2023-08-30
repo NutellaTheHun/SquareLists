@@ -24,7 +24,13 @@ def CreateFrontList(df):
 	#df['Full Name'] = df['Full Name'].loc[df['Full Name'].shift(1) != df['Full Name']]
 	#df['Full Name'] = df['Full Name'].shift(-1)
 
+	#filter out cancelled or completed orders
+	df[df['Status'] == ''] = np.NaN
+	df['Status'] = df['Status'].fillna(method = 'ffill')
+	df = df.loc[df['Status'] == 'pending']
+
 	#filter by tomorrow
+	
 	df["Pickup Date"] = pd.to_datetime(df["Pickup Date"], format='%m/%d/%Y')
 	df = df.loc[df['Pickup Date'] == userDate]
 	for value in df["Order Notes"].values:
