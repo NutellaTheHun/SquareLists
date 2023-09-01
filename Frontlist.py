@@ -30,7 +30,6 @@ def CreateFrontList(df):
 	df = df.loc[df['Status'] == 'pending']
 
 	#filter by tomorrow
-	
 	df["Pickup Date"] = pd.to_datetime(df["Pickup Date"], format='%m/%d/%Y')
 	df = df.loc[df['Pickup Date'] == userDate]
 	for value in df["Order Notes"].values:
